@@ -1,2 +1,2 @@
 # hello-world
-Hello World Guide to create a GitHub.com account.
+My name is Emile Jean Philippe. I am from Haiti, but I moved to the US in 2016 to get better opportunities. I have always been interested in creating things that can help make other people's lives easier since everything is electronic now. I have decided to pursue a degree in computer science. I am currently working for Toyota full-time. Due to the extended hours at work, I don't have time to do the stuff I like to do for fun anymore; however, I have discovered a passion for cooking food. 
